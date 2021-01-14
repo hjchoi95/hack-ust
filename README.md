@@ -1,2 +1,2 @@
 # hack-ust
-SQUASH GAME
+VR SQUASH GAME with Google Cardboard
